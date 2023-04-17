@@ -1,0 +1,7 @@
+setup.py
+base_clases/__init__.py
+base_clases/customer_name.py
+base_clases.egg-info/PKG-INFO
+base_clases.egg-info/SOURCES.txt
+base_clases.egg-info/dependency_links.txt
+base_clases.egg-info/top_level.txt
